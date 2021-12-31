@@ -10,3 +10,33 @@ Following things you must have:
 1- Discord Bot Token
 
 2- Active Chegg Account
+
+### Installation Process
+- Create An Virtual Environment after cloning this git repo
+```python3
+python -m venv venv
+```
+- Activate the Virtual Environment
+```python3
+#for linux or mac os
+source venv/bin/activate
+
+#for windows cmd
+.\venv\\Scripts\\activate.bat
+
+#for windows powershell
+.\venv\\Scripts\\activate.ps1
+
+#for bash shell of windows like git bash
+source venv/Scripts/activate
+```
+
+- Install Dependecies With
+```python3
+pip3 install -r requirements.txt
+```
+
+- Setup the Env Variables in setting.json and Run
+```bash
+python main.py
+```
