@@ -7,7 +7,7 @@ As Chegg is one of the most emerging platform for student help so the purpose of
 
 1. There is not limit to number of Requests which can lead to Account Suspension.
 
-# Following things you must have:
+## Following things you must have:
 
 1. Discord Bot Token
 2. Active Chegg Account
